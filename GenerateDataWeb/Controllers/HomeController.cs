@@ -19,6 +19,7 @@ namespace GenerateDataWeb.Controllers
 
         public IActionResult Index()
         {
+            // coba edit simulasi git
             return View();
         }
 
