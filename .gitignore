@@ -2,6 +2,10 @@
 .vs/
 *.user
 *.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+Properties/launchSettings.json
 
 # Build
 bin/
@@ -13,6 +17,3 @@ packages/
 # Log & temp
 *.log
 *.tmp
-
-# Config pribadi
-appsettings.Development.json
